@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👨🏻‍💻 Occupation: Mobile Development Engineer
+- 📟 WeChat：WhatsXie
+- 🤪 Not only production bugs but also bug porters
+
 <!--
 **ReverseScale/ReverseScale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
