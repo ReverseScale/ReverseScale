@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Tim! 👋
 
 - 👨🏻‍💻 Occupation: Mobile Development Engineer
 - 📟 WeChat: WhatsXie
