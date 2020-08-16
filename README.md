@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Tim! 
 
-![aNs8cF.gif](https://s1.ax1x.com/2020/08/03/aNs8cF.gif)
+![](https://s1.ax1x.com/2020/08/16/dEKbKf.gif)
 
 - 👨🏻‍💻 Occupation: Mobile Development Engineer
 - 📟 WeChat: WhatsXie
