@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Tim! 
+### Hi, I'm Tim!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ![](https://s1.ax1x.com/2020/08/16/dEKbKf.gif)
 
