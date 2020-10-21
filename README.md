@@ -7,6 +7,8 @@
 - 📟 WeChat: WhatsXie
 - 🤪 Not only production bugs but also bug porters
 
+![Tim's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ReverseScale)
+
 <details>
   <summary>Some other about me~</summary>
   <br>
