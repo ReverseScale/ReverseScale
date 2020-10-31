@@ -3,9 +3,9 @@
 
 ![](https://s1.ax1x.com/2020/08/16/dEKbKf.gif)
 
-- 👨🏻‍💻 Occupation: Mobile Development Engineer
-- 📟 WeChat: WhatsXie
-- 🤪 Not only production bugs but also bug porters
+- 👨🏻‍💻 Occupation: Mobile Development Engineer.
+- 📟 WeChat: WhatsXie.
+- 🤪 Not only production bugs but also bug porters.
 
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ReverseScale)
 
