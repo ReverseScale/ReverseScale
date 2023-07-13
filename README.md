@@ -7,7 +7,7 @@
 - 📟 WeChat: WhatsXie.
 - 🤪 Not only production bugs but also bug porters.
 
-<details>
+<details open>
   <summary>Some other about me~</summary>
   <br>
   <p align="left">
