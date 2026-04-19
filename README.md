@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Occupation: Mobile Development Engineer.
 - 📟 WeChat: WhatsXie.
-- 🤪 Not only production bugs but also bug porters.
+- 🤖 Now shipping features at the speed of AI — and debugging them at the speed of humanity.
 
 <details open>
   <summary>Some other about me~</summary>
