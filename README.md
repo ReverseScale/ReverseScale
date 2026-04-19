@@ -11,17 +11,19 @@
   <summary>Some other about me~</summary>
   <br>
 
-  <div>
-    <div style="float: left; width: 33.33%; text-align: center;">
-      <a href="https://timsappworkspace.notion.site/3c8752c19c724f7ca88c5aefbb684ed3?pvs=4"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585844-assets/web-upload/80238668-28a3-4298-ba68-de2fd370733e.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
-    </div>
-    <div style="float: left; width: 33.33%; text-align: center;">
-      <a href="https://timsappworkspace.notion.site/timsappworkspace/5fda3475a090427da9ac9b5c59964381"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585460-assets/web-upload/a72302fb-a1bf-48d7-a933-4cb55cb309f4.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
-    </div>
-    <div style="float: left; width: 33.33%; text-align: center;">
-      <a href="https://timsappworkspace.notion.site/531c5619b3784b54ab04e476a1a2ccaa"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585685-assets/web-upload/f56c642d-8152-4530-996f-560fe8417b12.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
-    </div>
-  </div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://timsappworkspace.notion.site/3c8752c19c724f7ca88c5aefbb684ed3?pvs=4"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585844-assets/web-upload/80238668-28a3-4298-ba68-de2fd370733e.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://timsappworkspace.notion.site/timsappworkspace/5fda3475a090427da9ac9b5c59964381"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585460-assets/web-upload/a72302fb-a1bf-48d7-a933-4cb55cb309f4.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://timsappworkspace.notion.site/531c5619b3784b54ab04e476a1a2ccaa"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585685-assets/web-upload/f56c642d-8152-4530-996f-560fe8417b12.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
+      </td>
+    </tr>
+  </table>
   <br clear="both" />
 
 </details>
