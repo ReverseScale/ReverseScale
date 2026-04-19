@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Occupation: Mobile Development Engineer.
 - 📟 WeChat: WhatsXie.
-- 🤖 Now shipping features at the speed of AI — and debugging them at the speed of humanity.
+- 🤖 My job title says "Engineer", but mostly I review AI's pull requests now.
 
 <details open>
   <summary>Some other about me~</summary>
