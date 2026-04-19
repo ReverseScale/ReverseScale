@@ -11,7 +11,7 @@
   <summary>Some other about me~</summary>
   <br>
 
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <table width="100%" border="0" rules="none" frame="void" cellspacing="0" cellpadding="10">
     <tr>
       <td width="33%" align="center">
         <a href="https://timsappworkspace.notion.site/3c8752c19c724f7ca88c5aefbb684ed3?pvs=4"><img src="https://cdn.nlark.com/yuque/0/2020/png/302712/1597898585844-assets/web-upload/80238668-28a3-4298-ba68-de2fd370733e.png?x-oss-process=image%2Fresize%2Cw_440" height="40" width="40" /></a>
